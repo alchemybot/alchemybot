@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alchemybot
-- 👀 I Work for Gale43
+- 👀 I Work for @Gale43
 
 <!---
 alchemybot/alchemybot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
